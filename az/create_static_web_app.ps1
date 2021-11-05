@@ -5,4 +5,4 @@ az staticwebapp create `
     -l WestEurope `
     -b main `
     --app-location "build" `
-    --token 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
+    --token **
